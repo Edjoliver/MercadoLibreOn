@@ -1,0 +1,8 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+
+key: uLf8cvmiPK0dVMR7ztOZMxR5x9ftOQS4
+id: 4310137106466378
